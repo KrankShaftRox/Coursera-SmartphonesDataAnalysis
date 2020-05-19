@@ -1,4 +1,4 @@
-# Coursera-SmartphonesDataAnalysis
+# Codebook - Smartphone Data Analysis (Getting and Cleaning Data)
 In view of the Coursera Getting and Cleaning Data course, as part of a specialization.
 
 ##Overview of Data Sourcing
